@@ -1,0 +1,12 @@
+{
+  "name": "mebojs",
+  "version": "0.0.1",
+  "main": "mebo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "axios-retry": "^3.2.4"
+  }
+}
